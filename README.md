@@ -14,7 +14,7 @@
 
 OUTPUT 
 
-
+![Image](https://github.com/user-attachments/assets/622f5c4c-7974-4641-97f3-d0ab9b645b1a)
 
 The Movie Search App is a feature-rich web application created using React.js that allows users to search for movies and save their favorites for quick access. It connects to the OMDB (Open Movie Database) public API to retrieve detailed information about movies, including their titles, posters, release years, and other relevant details. The main goal of this application is to provide an interactive platform where users can conveniently look up movies and build a personalized list of favorites for future reference.
 
